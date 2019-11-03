@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-social-media/static/css/main.b8529ad5.chunk.css",
+    "main.js": "/react-social-media/static/js/main.82314c62.chunk.js",
+    "main.js.map": "/react-social-media/static/js/main.82314c62.chunk.js.map",
+    "runtime~main.js": "/react-social-media/static/js/runtime~main.18839125.js",
+    "runtime~main.js.map": "/react-social-media/static/js/runtime~main.18839125.js.map",
+    "static/js/2.dc40f810.chunk.js": "/react-social-media/static/js/2.dc40f810.chunk.js",
+    "static/js/2.dc40f810.chunk.js.map": "/react-social-media/static/js/2.dc40f810.chunk.js.map",
+    "index.html": "/react-social-media/index.html",
+    "precache-manifest.0f65a76fced7d3b44aba5d81b29c3ce3.js": "/react-social-media/precache-manifest.0f65a76fced7d3b44aba5d81b29c3ce3.js",
+    "service-worker.js": "/react-social-media/service-worker.js",
+    "static/css/main.b8529ad5.chunk.css.map": "/react-social-media/static/css/main.b8529ad5.chunk.css.map",
+    "static/media/no-img.png": "/react-social-media/static/media/no-img.6732bd42.png"
+  }
+}
