@@ -1,0 +1,29 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "homepage": "https://github.com/manziEric/react-social-media.git",
+  "scripts": {
+    "serve": "firebase serve --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "gh-pages -d build",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "8"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^3.1.0",
+    "busboy": "^0.3.1",
+    "cors": "^2.8.5",
+    "dayjs": "^1.8.15",
+    "express": "^4.17.1",
+    "firebase": "^6.3.5",
+    "firebase-admin": "^8.0.0",
+    "firebase-functions": "^3.1.0"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.1.6"
+  },
+  "private": true
+}
